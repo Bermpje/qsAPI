@@ -24,9 +24,6 @@ setuptools.setup(
     install_requires=[
         "requests"
     ],
-    setup_requires=[
-        "requests"
-    ],
     extras_require={
         "ntlm": ["requests_ntlm"],
     },
