@@ -14,8 +14,8 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="qsAPI",
     version=__version__,
-    author="Rafael Sanz",
-    author_email="rafael.sanz@selab.es",
+    author="Emiel Kremers - Original Rafael Sanz",
+    author_email="emiel.kremers@vodafoneziggo.com",
     description="qsAPI - a client for Qlik Sense QPS and QRS interfaces",
     long_description=long_description,
     long_description_content_type="text/markdown",
