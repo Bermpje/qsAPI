@@ -20,7 +20,7 @@ This software is MIT licensed (see terms below)
     IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 '''
 
-__version__ = "2.3.0VZ"
+__version__ = "2.3.0"
 __updated__ = '24/02/2023'
 
 
